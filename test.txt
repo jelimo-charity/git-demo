@@ -1,0 +1,1 @@
+This is a demo on how to navigate with git concepts by charity
